@@ -408,9 +408,17 @@ div#map {
     }
 }
 
+/*--------------------------------------------Github Styles*/
+
 #loader {
     display: block;
     width: 200px;
     height: 200px;
     margin: 0 auto;
+  }
+
+  .small-name {
+    font-size: 0.75em;
+    color: #a9a9a9;
+    font-style: italic;
   }
